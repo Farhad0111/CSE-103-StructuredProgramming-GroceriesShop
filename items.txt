@@ -1,0 +1,12 @@
+Butter 90 60
+Detergents 14 55
+Rice 95 100
+Flour 50 55
+Chips 10 10
+Meat 25 500
+Chicken 30 450
+Shawty 7 100
+Potato 15 0
+Sugar 15 100
+Coke 1000 0
+Cola 25 50
